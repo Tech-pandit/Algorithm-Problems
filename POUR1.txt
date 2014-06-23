@@ -1,0 +1,5 @@
+difficulty in understanding gcd's part
+
+link to sloution:
+
+http://code.ohloh.net/file?fid=QtBSXt9b8tMj8fRG5jvP63LeY-E&cid=Ywm3y8tvb_E&s=&fp=399846&projSelected=true#L0
